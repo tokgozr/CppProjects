@@ -14,4 +14,5 @@ int main()
         reversed += input[i];
     }
     cout << "Tersine cevrilmis hali: " << reversed << endl;
+    return 0;
 }
